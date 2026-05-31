@@ -14,5 +14,5 @@
   <text x="100" y="120" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold" fill="white" letter-spacing="2">ANSIBLE</text>
   <text x="100" y="142" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="rgba(255,255,255,0.85)" letter-spacing="2">AUTOMATION</text>
   <line x1="62" y1="152" x2="138" y2="152" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
-  <text x="100" y="164" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9" fill="rgba(255,255,255,0.65)">DevOps MI · Cohort 3</text>
+  <text x="100" y="164" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="9" font-weight="bold" fill="rgba(255,255,255,0.9)">DevOps Micro Internship</text>
 </svg>
