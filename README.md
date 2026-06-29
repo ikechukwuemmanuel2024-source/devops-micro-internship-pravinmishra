@@ -13,11 +13,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
+| **Name** | Ikechukwu Emmanuel |
 | **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Location** | Lagos, Nigera |
+| **Background** | Python |
+| **Goal** | Master DevOps |
 
 ---
 
