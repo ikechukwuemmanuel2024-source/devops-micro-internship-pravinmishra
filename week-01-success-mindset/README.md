@@ -33,10 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Add your answer here 
 
----
-
+My view of life is that life is vague/complicated. The definition of life differs in person, but if i'm to describe life in one word i'll say life is all about "DISCOVERY". Another person may or will have their own definition of life, in the sense that we keeping learning and uncovering new things every single day, I have this psychological belief that a person who stops DISCOVERING automatically stops living, another person might contract that which is okay. the reason i used the word DISCOVERY is because discovery doesn't only have to do with learning but also exploring and learning about ourselves in my view. Another thing i think people might disagree on is "Failure is the best teacher". It is contradictory because it reduces self esteem, but failure is very important, makes someone with pride to understand that there more. most people think about just working hard but i say building a good personal brand is almost everything, from your discipline to the value you create to your relationship with people and able to adapt fast in a place. Also luck plays a role in success too. Using Bill-Gate as an example, attending one of the few schools on earth with computer, he is lucky but he worked hard too. life's beautiful and i believe if you find a meaning for your suffering it ceases to be suffering. i believe most people will not agree to this the most 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
 ### Definition
@@ -49,43 +48,41 @@ Write each truth in this format:
 
 **Evidence from my life:** (2–4 lines: what you tried + what happened)
 
----
+
+
 
 ## Truth #1
 
 ### Truth
 
-Add your answer here...
+nothing negative can coexist in the place as gratefulness 
 
 ### Evidence from my life
 
-Add your answer here...
+No one was born with so much knowledge, we keep learning while we grow. one of the things i've noticed is that when you are trying to compare yourself with someone else or what the other person have and trying to be grateful at the same time, it actually won't work because comparison is going to get the better part of you which is something negative, so in other for me to be fully grateful, i try not to compare my self with others. 
 
----
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
-
+practice makes you better, mistakes makes you perfect
 ### Evidence from my life
 
-Add your answer here...
+The more we practice, the more we become better at something. But when we start making mistakes, we start wondering why those mistakes keeps occuring, so we try not to make that same mistake again. While we are practicing to be better, we are always making mistakes to make us perfect 
 
----
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+It's easy to destroy than it is easy to build
 
 ### Evidence from my life
 
 Add your answer here...
 
----
+i've seen people build a solid relationships over the years and just a single miscommunication was could destroy everything just like a friend of mine who just decied to stop talking to me because i didn't go pick him up somewhere.
 
 # Assignment 3. What does your 2.0 version look like?
 
@@ -95,7 +92,7 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 **Minimum 300 words.**
 
-### Rules
+### RulesS
 
 * Write in past tense, like it already happened.
 * Don't use "likes to / wants to / hopes to."
@@ -131,17 +128,23 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 Include this line:
 
-> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
 
 ## Your Article
 
-Add your answer here...
+A few years ago, I made the decision to pursue a career in DevOps, and that decision completely changed my life. I committed myself to learning every day, even when the concepts were difficult. I built a solid foundation in Linux, Git, networking, Docker, Kubernetes, AWS, Terraform, Bash scripting, and CI/CD by practicing consistently instead of relying only on theory.
+I completed several hands-on projects that demonstrated my understanding of DevOps principles. Every project strengthened my confidence and improved my ability to solve real-world problems. I documented my work on GitHub, making it easy for recruiters and fellow engineers to see my growth and technical skills.
+I contributed to collaborative projects, learned from experienced engineers, and improved my communication skills by working with people from different backgrounds. These experiences taught me that technical knowledge alone was not enough; teamwork, consistency, and a willingness to learn were equally important.
+My dedication eventually led to my first DevOps engineering role. I built and maintained CI/CD pipelines that automated software delivery, managed cloud infrastructure, monitored production environments, and helped development teams deploy applications more efficiently. The systems I worked on became more reliable, deployment times became shorter, and manual errors were significantly reduced.
+Outside my professional career, I published my book, Beyond the Obvious, where I shared lessons about resilience, discipline, and finding meaning in life's challenges. Writing the book strengthened my communication skills and allowed me to encourage others who were working toward ambitious goals.
+Looking back, the journey was built on small, consistent actions rather than overnight success. Every command I learned, every project I completed, every mistake I corrected, and every challenge I overcame contributed to the person I became. Success came from persistence, continuous learning, and the courage to keep moving forward.
+This experience proved that meaningful progress is achieved one step at a time, and every small improvement eventually compounds into extraordinary results.
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+https://www.linkedin.com/posts/ikechukwu-emmanuel_a-few-years-ago-i-made-the-decision-to-pursue-activity-7477812495945216000-3CsF
 
 ---
 
@@ -173,7 +176,11 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+## Answer
+
+yes
+
+There were times when I took shortcuts instead of putting in my best effort. At first, it feels like the easier option, but after then, I felt guilty and disappointed in myself. I also felt stressed mentally because I knew I had not been honest with my own self. That experience taught me that shortcuts may save time temporarily, but they often reduce confidence and growth. Since then, I have tried to be more disciplined and take responsibility for my work.
 
 ---
 
@@ -199,16 +206,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The art of explanation by Ros Atkins 
+2. Thinking fast and slow by daniel Kahneman
+3. Man search for meaning by Victor Frankl
+4. The Happiest man on earth by Eddie Jaku
+5. The psychology of money by Morgan Housel
+6. Mastery by Robert Greene
+7. Shift your thinking for success by Dean Del Sesto
+8. The art of war by Sun Tzu
+9. The Art of thinking clearly by Rolf Dobelli
+10. Letter from stoic by seneca  
 
 ---
 
@@ -237,16 +244,15 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* 
+* learning hours 
+* Linux practice 
+* Exercise 
+* Meditation
+* Time Management
+* Reading progress
+* Social Media hours 
+* Writting ideas 
 
 ---
 
@@ -270,7 +276,7 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
 Add your answer here...
 
@@ -290,7 +296,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Mon-Fri: Learn linux and DevOps 
+* sat: Complete assignment 
+* Sun: weekly review, Plan for the next week
 
 ---
 
@@ -298,11 +306,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+* Mon-Fri: 7:00 pm - 9:00 pm 
+* Sat: 10:00 am - 12:00 pm
+* Sun: 1:00 pm - 2:00 pm
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+6 sessions per week
 
 ---
 
@@ -316,7 +326,10 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone rules 
+* Eating rules 
+* Working out rules
+* Studying rules 
 
 ---
 
@@ -324,27 +337,27 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I've realised that i learn better when i stay consistent, not only when i feel like
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My phone but most overthinking
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I'll fix a limited time to the use of social media 
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/ikechukwu-emmanuel_a-few-years-ago-i-made-the-decision-to-pursue-activity-7477812495945216000-3CsF`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL:  https://www.linkedin.com/posts/ikechukwu-emmanuel_a-few-years-ago-i-made-the-decision-to-pursue-activity-7477812495945216000-3CsF
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
