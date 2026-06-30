@@ -14,9 +14,9 @@
 | | |
 |---|---|
 | **Name** | Ikechukwu Emmanuel |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
+| **LinkedIn** | [Ikechukwu Emmanuel](https://www.linkedin.com/in/ikechukwu-emmanuel?trk=contact-info) |
 | **Location** | Lagos, Nigera |
-| **Background** | Python |
+| **Background** | Python, Linux |
 | **Goal** | Master DevOps |
 
 ---
