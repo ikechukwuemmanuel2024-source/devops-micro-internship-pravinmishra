@@ -5,7 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 ![Weeks](https://img.shields.io/badge/Weeks_Completed-0%2F15-green?style=for-the-badge)
 
-> 👋 **New here?** Read the [submission instructions](./INSTRUCTIONS.md) first — how to fork, fill in, and submit your assignments.
+> 👋 **New here?** Read the [submission instructions](./onboarding) first — how to fork, fill in, and submit your assignments.
+> Find all the required links & assignment guidelines from here [Required links](./dmi_cohort3_resources.md)
 
 ---
 
@@ -13,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Ikechukwu Emmanuel |
+| **LinkedIn** | [Ikechukwu Emmanuel](https://www.linkedin.com/in/ikechukwu-emmanuel?trk=contact-info) |
+| **Location** | Lagos, Nigera |
+| **Background** | Python, Linux |
+| **Goal** | Master DevOps |
 
 ---
 
