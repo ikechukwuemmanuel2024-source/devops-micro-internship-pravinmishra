@@ -47,7 +47,7 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 
 - Node.js and npm installed (`node --version` works)
 - Git installed and configured (Verify using `git --version`)
-- GitHub account
+- GitHub accountF
 - VS Code installed (Vrify using `code --version`)
 - Claude subscription (Pro plan minimum)
 
@@ -123,7 +123,8 @@ code .
 ```
 What files are in this project and what does each one do?
 How many lines of CSS does this project have?
-```
+
+---
 
 **Expected Output:**
 - Question 1: Claude lists the files and describes each one, showing it read them first

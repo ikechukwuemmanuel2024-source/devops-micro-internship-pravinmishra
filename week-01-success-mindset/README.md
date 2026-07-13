@@ -105,7 +105,7 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
   * earned
   * relocated
   * contributed
-* Include skills proof:
+v* Include skills proof:
 
   * projects
   * portfolios
