@@ -22,7 +22,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 Add your screenshot here.
 
----
+![alt text](image-22.png)
 
 # Task 2 — Compare the Agent Configurations
 
@@ -36,19 +36,19 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 Add your answer here...
 
----
+Haiku is used because it is faster and more cost-effective than Sonnet. The cost optimizer mainly performs focused analysis and recommendations, so Haiku provides sufficient capability while reducing cost and response time.
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
 Add your answer here...
 
----
+The security auditor is intended to analyze and report security issues only. It does not have the Write tool to prevent it from modifying project files, ensuring it performs read-only security reviews.
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
 Add your answer here...
 
----
+The inherit setting allows the tf-writer to use the same model as the main Claude session. This keeps its behavior consistent with the parent session and allows the model to change automatically if the parent model changes.
 
 ### Evidence
 
@@ -56,13 +56,13 @@ Add your answer here...
 
 Add your screenshot here.
 
----
+![alt text](image-23.png)
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
 Add your screenshot here.
 
----
+![alt text](image-24.png)
 
 # Task 3 — Run the Security Auditor
 
@@ -76,13 +76,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 Add your screenshot here.
 
----
+![alt text](image-26.png)
 
 #### Screenshot 5 — Security audit report output
 
 Add your screenshot here.
 
----
+![alt text](image-25.png)  
 
 # Task 4 — Run the Cost Optimizer
 
@@ -96,7 +96,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Add your screenshot here.
 
----
+![alt text](image-27.png)
 
 # Submission Instructions
 
