@@ -22,7 +22,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 Add your screenshot here.
 
----
+![alt text](image-16.png)
 
 # Task 2 — Add the Skill Files
 
@@ -36,13 +36,13 @@ Place all required skill files into their correct directories and verify their c
 
 Add your screenshot here.
 
----
+![alt text](image-17.png)
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
 Add your screenshot here.
 
----
+![alt text](image-18.png)
 
 # Task 3 — Run /scaffold-terraform
 
@@ -56,13 +56,13 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 Add your screenshot here.
 
----
+![alt text](image-19.png)
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
 Add your screenshot here.
 
----
+![alt text](image-20.png)
 
 # Task 4 — Run terraform init and /tf-plan
 
@@ -76,7 +76,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 Add your screenshot here.
 
----
+![alt text](image-21.png)
 
 # Submission Instructions
 
@@ -90,7 +90,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/ikechukwuemmanuel2024-source/devops-micro-internship-pravinmishra.git`
 
 ## LinkedIn post URL
 
