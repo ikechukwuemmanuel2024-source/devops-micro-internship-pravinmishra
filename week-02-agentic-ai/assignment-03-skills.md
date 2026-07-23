@@ -96,7 +96,7 @@ Paste your forked repository URL here:
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/ikechukwu-emmanuel_devops-cloudengineering-aws-activity-7485377924431532034-uCbS`
 ---
 
 # Completion Checklist

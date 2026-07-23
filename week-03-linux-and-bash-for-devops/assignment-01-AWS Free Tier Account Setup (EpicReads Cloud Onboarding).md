@@ -22,19 +22,21 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 Write your answer here.
 
----
+An AWS account is your personal access to Amazon Web Services, where you can create and manage cloud resources. At this stage, it is needed so you can practice using AWS services, deploy applications, and complete the cloud engineering tasks in the internship.
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
 Write your answer here.
 
----
+AWS Free Tier allows new users to use selected AWS services at no cost within certain monthly limits. Most Free Tier benefits last for 12 months after creating the account, while a few services have an always-free limit.
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
 Write your answer here.
 
----
+1. Amazon EC2 – Up to 750 hours per month of a t2.micro or t3.micro instance (depending on the region).
+2. Amazon S3 – Up to 5 GB of Standard Storage, plus limited requests and data transfer.
+3. sAmazon RDS – Up to 750 hours per month of a db.t3.micro or db.t2.micro database instance, along with allocated storage under the Free Tier.
 
 # Task 2 — Create AWS Free Tier Account
 
@@ -58,7 +60,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 Add your screenshot here.
 
----
+![alt text](image.png)
 
 # Submission Instructions
 
