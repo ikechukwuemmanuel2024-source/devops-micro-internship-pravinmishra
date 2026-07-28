@@ -1,7 +1,7 @@
 # Assignment 7 — A Claude That Remembers
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
-
+/
 ---
 
 ## Purpose
@@ -22,7 +22,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 Add your screenshot here.
 
----
+![alt text](image.png)
 
 # Task 2 — Give Claude Information to Remember
 
@@ -36,13 +36,13 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 Add your screenshot here.
 
----
+![alt text](image-1.png)
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
 Add your screenshot here.
 
----
+![alt text]({98281B2F-0F41-4773-87FE-745889511895}.png)
 
 # Task 3 — Close the Session Completely
 
@@ -56,7 +56,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 Add your screenshot here.
 
----
+![alt text]({13C04625-CC8E-47AD-B2A2-5C60F72ACA7B}.png)
 
 # Task 4 — Prove Memory Recall Across Sessions
 
@@ -70,13 +70,13 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Add your screenshot here.
 
----
+![alt text]({359DCD01-CDC4-487F-B23A-9608265A22AA}.png)
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
 Add your screenshot here.
 
----
+![alt text]({F51AC165-DBBE-4CD9-8705-B7DBB9F7E176}.png)
 
 # Submission Instructions
 
@@ -91,7 +91,7 @@ Add your screenshot here.
 
 Paste your Linkedin post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/ikechukwu-emmanuel_devops-agenticai-claudecode-ugcPost-7487584797104652288-N6JF`
 
 ---
 
@@ -99,7 +99,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/ikechukwuemmanuel2024-source/devops-micro-internship-pravinmishra`
 
 ---
 

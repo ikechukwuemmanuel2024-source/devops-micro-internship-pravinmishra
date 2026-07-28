@@ -35,7 +35,8 @@ You will reuse this in later weeks. So do it properly once.
 
 Add your answer here 
 
-My view of life is that life is vague/complicated. The definition of life differs in person, but if i'm to describe life in one word i'll say life is all about "DISCOVERY". Another person may or will have their own definition of life, in the sense that we keeping learning and uncovering new things every single day, I have this psychological belief that a person who stops DISCOVERING automatically stops living, another person might contract that which is okay. the reason i used the word DISCOVERY is because discovery doesn't only have to do with learning but also exploring and learning about ourselves in my view. Another thing i think people might disagree on is "Failure is the best teacher". It is contradictory because it reduces self esteem, but failure is very important, makes someone with pride to understand that there more. most people think about just working hard but i say building a good personal brand is almost everything, from your discipline to the value you create to your relationship with people and able to adapt fast in a place. Also luck plays a role in success too. Using Bill-Gate as an example, attending one of the few schools on earth with computer, he is lucky but he worked hard too. life's beautiful and i believe if you find a meaning for your suffering it ceases to be suffering. i believe most people will not agree to this the most 
+I believe that life is fundamentally about discovery. Many people define life through success, money, happiness, or achievements, but I think discovery comes before all of those. Every stage of life teaches us something new about the world, other people, and ourselves. The moment a person stops learning, exploring, questioning, and growing, they stop truly living, even if they are still alive. Discovery is not limited to education; it also means understanding our strengths, weaknesses, purpose, and values. I know many people would disagree because they believe success is the ultimate goal, but I believe discovery is what gives success meaning.
+
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
 
 ### Definition
@@ -55,7 +56,7 @@ Write each truth in this format:
 
 ### Truth
 
-nothing negative can coexist in the place as gratefulness 
+Comparison reduces gratitude.
 
 ### Evidence from my life
 
@@ -66,7 +67,8 @@ No one was born with so much knowledge, we keep learning while we grow. one of t
 
 ### Truth
 
-practice makes you better, mistakes makes you perfect
+Deliberate practice and learning from mistakes lead to improvement.
+
 ### Evidence from my life
 
 The more we practice, the more we become better at something. But when we start making mistakes, we start wondering why those mistakes keeps occuring, so we try not to make that same mistake again. While we are practicing to be better, we are always making mistakes to make us perfect 
@@ -82,7 +84,7 @@ It's easy to destroy than it is easy to build
 
 Add your answer here...
 
-i've seen people build a solid relationships over the years and just a single miscommunication was could destroy everything just like a friend of mine who just decied to stop talking to me because i didn't go pick him up somewhere.
+Trust takes years to build but can be destroyed quickly through repeated poor decisions or a single serious mistake.
 
 # Assignment 3. What does your 2.0 version look like?
 
@@ -180,7 +182,7 @@ If Yes:
 
 yes
 
-There were times when I took shortcuts instead of putting in my best effort. At first, it feels like the easier option, but after then, I felt guilty and disappointed in myself. I also felt stressed mentally because I knew I had not been honest with my own self. That experience taught me that shortcuts may save time temporarily, but they often reduce confidence and growth. Since then, I have tried to be more disciplined and take responsibility for my work.
+There were times when I took shortcuts instead of putting in my best effort. At first, it feels like the easier option, but afterwards, I felt guilty and disappointed in myself. I also felt stressed mentally because I knew I had not been honest with my own self. That experience taught me that shortcuts may save time temporarily, but they often reduce confidence and growth. Since then, I have tried to be more disciplined and take responsibility for my work.
 
 ---
 
@@ -206,16 +208,16 @@ Choose books that improve:
 
 ## Book List
 
-1. The art of explanation by Ros Atkins 
-2. Thinking fast and slow by daniel Kahneman
-3. Man search for meaning by Victor Frankl
-4. The Happiest man on earth by Eddie Jaku
-5. The psychology of money by Morgan Housel
-6. Mastery by Robert Greene
-7. Shift your thinking for success by Dean Del Sesto
-8. The art of war by Sun Tzu
-9. The Art of thinking clearly by Rolf Dobelli
-10. Letter from stoic by seneca  
+1. The Art of explanation - Ros Atkins 
+2. Thinking fast and slow - daniel Kahneman
+3. Man's search for meaning - Victor Frankl
+4. The Happiest man on earth - Eddie Jaku
+5. The psychology of money - Morgan Housel
+6. Mastery - Robert Greene
+7. Shift your thinking for success - Dean Del Sesto
+8. The Art of war - Sun Tzu
+9. The Art of thinking clearly - Rolf Dobelli
+10. Letter from a stoic - seneca  
 
 ---
 
@@ -244,15 +246,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* 
-* learning hours 
-* Linux practice 
-* Exercise 
-* Meditation
-* Time Management
+* Learning hours per week
+* Linux practice sessions
+* DevOps projects completed
+* GitHub commits
+* Exercise and physical activity
+* Sleep quality
 * Reading progress
-* Social Media hours 
-* Writting ideas 
+* Time spent on social media
+* Personal spending tracker
+* Daily writing or journaling
 
 ---
 
@@ -276,11 +279,11 @@ Examples:
 
 **Yes / No**
 
-Answer: Yes
+Answer: 
 
 Add your answer here...
 
----
+Yes
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
 
@@ -326,10 +329,11 @@ Examples:
 
 #### My Distraction Rules
 
-* Phone rules 
-* Eating rules 
-* Working out rules
-* Studying rules 
+* No social media during study sessions.
+* Keep my phone on Do Not Disturb while studying.
+* Exercise before long study sessions when possible.
+* Eat before beginning deep work to avoid unnecessary breaks.
+* Study in a quiet environment with unnecessary tabs closed. 
 
 ---
 
@@ -345,7 +349,7 @@ My phone but most overthinking
 
 ### One system I will implement from this week (exact habit + time)
 
-I'll fix a limited time to the use of social media 
+My biggest weakness is allowing distractions from my phone and spending too much time overthinking instead of taking action.
 
 ### LinkedIn Post
 

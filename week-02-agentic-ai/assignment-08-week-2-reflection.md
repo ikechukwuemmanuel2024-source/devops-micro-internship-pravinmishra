@@ -48,13 +48,13 @@ You can publish your blog on:
 
 Add your screenshot here.
 
----
+![alt text]({3F28BCB0-D3C7-4924-92DE-757081937DED}.png)
 
 ### Submission Field
 
 Blog Link:
 
-`__________________________________________`
+`https://github.com/ikechukwuemmanuel2024-source/Ultimate-Agentic-DevOps-with-Claude-Code/blob/main/Reflection-week-02.md`
 
 ---
 
@@ -94,7 +94,7 @@ Your post must include:
 
 Add your screenshot here.
 
----
+![alt text]({69FDFB93-EB1B-42E0-89C1-C6920293826C}.png)
 
 ### Submission Field
 
@@ -104,11 +104,16 @@ LinkedIn Post Content (copy-paste here):
 Paste your LinkedIn post content here
 ```
 
----
+Over the past week, I explored how Agentic AI can support real software engineering workflows rather than just answer questions.
+During Week 2 of the DevOps Micro Internship, I worked with Claude Code, Skills, Subagents, MCP, Hooks, Permissions, and Memory. One of my biggest takeaways was understanding that AI becomes much more powerful when it follows structured workflows with clear rules and reusable skills.
+I also learned an important lesson about myself. Many of the issues I encountered weren't caused by the tools—they came from rushing through instructions or working in the wrong project folder. Slowing down, reading error messages carefully, and following a checklist made a huge difference.
+I'm still learning, but every assignment is helping me become more confident with Git, GitHub, terminal commands, and DevOps practices. Looking forward to building on this foundation in the coming weeks.
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining DMI waiting list (https://forms.gle/3hvrWJBDzsDeJoPs6⁠�).
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-agenticai-claudecode-share-7487790542274342912-wiR0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w`
 
 ---
 

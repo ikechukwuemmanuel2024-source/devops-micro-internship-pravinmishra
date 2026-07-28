@@ -6,7 +6,7 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ## Purpose
 
-In this assignment, you will configure safety and control mechanisms for Claude Code using permissions and hooks. You will define team-level command restrictions and implement prompt-level and tool-level hooks to prevent destructive actions before they execute.
+In this assignment, you will confgure safety and control mechanisms for Claude Code using permissions and hooks. You will define team-level command restrictions and implement prompt-level and tool-level hooks to prevent destructive actions before they execute.
 
 ---
 
@@ -22,7 +22,7 @@ Create the `.claude` directory structure required for team-level Claude Code con
 
 Add your screenshot here.
 
----
+![alt text](image-2.png)
 
 # Task 2 — Create the UserPromptSubmit Hook Script
 
@@ -36,7 +36,7 @@ Create a hook that checks user prompts before Claude processes them and blocks r
 
 Add your screenshot here.
 
----
+![alt text](image-3.png)
 
 # Task 3 — Create the PreToolUse Hook Script
 
@@ -50,7 +50,7 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 
 Add your screenshot here.
 
----
+![alt text](image-4.png)
 
 # Task 4 — Create the PostToolUse Hook Script
 
@@ -64,7 +64,7 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 Add your screenshot here.
 
----
+![alt text](image-5.png)
 
 # Task 5 — Configure settings.json to Connect Hook Scripts
 
@@ -78,7 +78,7 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 Add your screenshot here.
 
----
+![alt text](image-6.png)
 
 # Task 6 — Test the UserPromptSubmit Hook
 
@@ -90,7 +90,7 @@ Prove the prompt-level hook works by typing a destructive prompt and verifying i
 
 #### Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
 
----
+![alt text](image-7.png)
 
 # Task 7 — Test the PreToolUse Hook
 
@@ -102,7 +102,7 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
 
----
+![alt text](image-8.png)
 
 # Task 8 — Test the PostToolUse Logging Hook
 
@@ -116,7 +116,8 @@ Prove the logging hook runs after a successful command execution and records Ter
 
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
 
----
+![alt text](image-9.png)
+![alt text](image-10.png)
 
 # Submission Instructions
 
