@@ -362,7 +362,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL:  https://www.linkedin.com/posts/ikechukwu-emmanuel_a-few-years-ago-i-made-the-decision-to-pursue-activity-7477812495945216000-3CsF
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium :(https://medium.com/@ikechukwuemmanuel2024/building-my-mindset-os-what-week-1-of-my-devops-micro-internship-taught-me-7f44abe6e678) 
 
 ---
 
