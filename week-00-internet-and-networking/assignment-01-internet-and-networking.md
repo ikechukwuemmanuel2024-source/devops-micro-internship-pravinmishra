@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot]![alt text]({FC9507C8-01A2-462C-A394-E137CC03A66C}.png)
+![Screenshot 1](Screenshots/01.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -33,8 +33,6 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 ---
 
 ## What I Learned (2–3 lines)
-
-Add your answer here...
 
 I learned that a networking protocol is a set of rules that allows devices to communicate with each other over a network. The real-life example helped me understand that protocols are like rules people follow during a conversation to avoid confusion.
 
@@ -58,8 +56,6 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
-
-Add your answer here...
 
 When someone visits EpicReads from anywhere in the world, their request is broken into small pieces called packets through packet switching. These packets travel across different networks to reach the web server hosted in Finland. Every device connected to the internet has a unique IP address, which helps the packets find the correct destination. TCP/IP ensures that all packets arrive correctly, in the right order, and without missing data. Once the request reaches the server, HTTP or HTTPS is used to transfer the website's content back to the user's browser. HTTPS is more secure because it encrypts the communication, protecting users' personal information and making online browsing safer.
 
@@ -91,7 +87,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram] ![alt text](two-tier.jpeg) ![alt text](three-tier.jpeg)  
+![Screenshot 2](Screenshots/02.png) 
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
