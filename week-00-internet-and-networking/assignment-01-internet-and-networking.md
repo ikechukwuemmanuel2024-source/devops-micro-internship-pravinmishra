@@ -174,8 +174,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot] ![alt text]({00FD7458-7589-4064-B629-4CB76C00A926}.png)
-
+![alt text]({FB00AFB3-B186-40A3-9204-8E13A9D93BF4}.png)
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
 
@@ -213,17 +212,11 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
-
 https://www.linkedin.com/posts/ikechukwu-emmanuel_epic-reads-shop-young-adult-ya-books-activity-7443334553328365568-5hp-
 
 ## LinkedIn Post Backup Copy
 
 Paste the full text of your LinkedIn post here:
-
-Add your post content here...
 
 1. A protocol in networking is a set of rules that devices follow so they can communicate with each other correctly. Imagine two people talking on the phone,They agree to speak the same language (English)
 	They take turns speaking (one talks, the other listens)
@@ -240,19 +233,13 @@ To connect the domain to that IP, an A record should be used. An A record maps a
 
 ### What did you find easy?
 
-Add your answer here...
-
 Understanding the basic networking concepts and using ChatGPT to learn technical topics in a simple way.
 
 ### What was difficult?
 
-Add your answer here...
-
 Creating and understanding application architecture diagrams was slightly challenging at first, but it became easier after practising.
 
 ### What will you improve next week?
-
-Add your answer here...
 
 I will spend more time practising networking concepts and Linux commands so I can build a stronger foundation for future DevOps tasks.
 
