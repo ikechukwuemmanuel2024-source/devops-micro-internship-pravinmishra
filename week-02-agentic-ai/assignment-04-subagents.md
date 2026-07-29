@@ -20,9 +20,9 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![Screenshot 22](screenshots/week-02-22.png)
 
-![alt text](image-22.png)
+---
 
 # Task 2 — Compare the Agent Configurations
 
@@ -34,35 +34,35 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
-
 Haiku is used because it is faster and more cost-effective than Sonnet. The cost optimizer mainly performs focused analysis and recommendations, so Haiku provides sufficient capability while reducing cost and response time.
+
+---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
-
 The security auditor is intended to analyze and report security issues only. It does not have the Write tool to prevent it from modifying project files, ensuring it performs read-only security reviews.
+
+---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
-
 The inherit setting allows the tf-writer to use the same model as the main Claude session. This keeps its behavior consistent with the parent session and allows the model to change automatically if the parent model changes.
+
+---
 
 ### Evidence
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![Screenshot 23](screenshots/week-02-23.png)
 
-![alt text](image-23.png)
+---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![Screenshot 24](screenshots/week-02-24.png)
 
-![alt text](image-24.png)
+---
 
 # Task 3 — Run the Security Auditor
 
@@ -74,15 +74,15 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+[Screenshot 1](screenshots/week-02-26.png)
 
-![alt text](image-26.png)
+---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![Screenshot 25](screenshots/week-02-25.png)  
 
-![alt text](image-25.png)  
+---
 
 # Task 4 — Run the Cost Optimizer
 
@@ -94,9 +94,9 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![Screenshot 1](screenshots/week-02-32.png)
 
-![alt text]({40D4B22B-716C-4641-BB26-D54BCF4D08AD}.png)
+---
 
 # Submission Instructions
 

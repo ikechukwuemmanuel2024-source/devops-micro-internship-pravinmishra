@@ -33,8 +33,6 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here 
-
 I believe that life is fundamentally about discovery. Many people define life through success, money, happiness, or achievements, but I think discovery comes before all of those. Every stage of life teaches us something new about the world, other people, and ourselves. The moment a person stops learning, exploring, questioning, and growing, they stop truly living, even if they are still alive. Discovery is not limited to education; it also means understanding our strengths, weaknesses, purpose, and values. I know many people would disagree because they believe success is the ultimate goal, but I believe discovery is what gives success meaning.
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
@@ -49,8 +47,7 @@ Write each truth in this format:
 
 **Evidence from my life:** (2–4 lines: what you tried + what happened)
 
-
-
+---
 
 ## Truth #1
 
@@ -82,9 +79,9 @@ It's easy to destroy than it is easy to build
 
 ### Evidence from my life
 
-Add your answer here...
-
 Trust takes years to build but can be destroyed quickly through repeated poor decisions or a single serious mistake.
+
+---
 
 # Assignment 3. What does your 2.0 version look like?
 
@@ -144,8 +141,6 @@ This experience proved that meaningful progress is achieved one step at a time, 
 
 ### Public Link
 
-Paste your link here:
-
 https://www.linkedin.com/posts/ikechukwu-emmanuel_a-few-years-ago-i-made-the-decision-to-pursue-activity-7477812495945216000-3CsF
 
 ---
@@ -175,10 +170,6 @@ This is about self-awareness, not judgment.
 If Yes:
 
 **What emotion did you feel?** (minimum 50–100 words)
-
-## Answer
-
-## Answer
 
 yes
 
@@ -281,9 +272,9 @@ Examples:
 
 Answer: 
 
-Add your answer here...
-
 Yes
+
+---
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
 
