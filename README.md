@@ -130,7 +130,7 @@ Week 02 → Agentic AI with Claude Code
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_epic-reads-shop-young-adult-ya-books-activity-7443334553328365568-5hp- | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_epic-reads-shop-young-adult-ya-books-activity-7443334553328365568-5hp- | https://medium.com/@ikechukwuemmanuel2024/internet-and-networking-the-foundation-of-my-cloud-engineering-journey-eba13cba5f6a?sharedUserId=ikechukwuemmanuel2024 |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_a-few-years-ago-i-made-the-decision-to-pursue-activity-7477812495945216000-3CsF | https://medium.com/@ikechukwuemmanuel2024/building-my-mindset-os-what-week-1-of-my-devops-micro-internship-taught-me-7f44abe6e678 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-agenticai-claudecode-share-7487790542274342912-wiR0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://github.com/ikechukwuemmanuel2024-source/Ultimate-Agentic-DevOps-with-Claude-Code/blob/main/Reflection-week-02.md |
 | 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
