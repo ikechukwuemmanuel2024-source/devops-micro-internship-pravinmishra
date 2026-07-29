@@ -174,7 +174,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![alt text]({FB00AFB3-B186-40A3-9204-8E13A9D93BF4}.png)
+![Screenshot 3](Screenshots/03.png) 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
 
