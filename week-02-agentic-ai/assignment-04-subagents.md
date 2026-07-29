@@ -96,7 +96,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Add your screenshot here.
 
-![alt text](image-27.png)
+![alt text]({40D4B22B-716C-4641-BB26-D54BCF4D08AD}.png)
 
 # Submission Instructions
 
