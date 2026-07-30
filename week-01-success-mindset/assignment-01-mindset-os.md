@@ -336,7 +336,7 @@ I've realised that i learn better when i stay consistent, not only when i feel l
 
 ### My biggest weakness/loop I noticed
 
-My phone but most overthinking
+My phone but mostly i overthinking
 
 ### One system I will implement from this week (exact habit + time)
 
