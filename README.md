@@ -134,7 +134,7 @@ Week 02 → Agentic AI with Claude Code
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_a-few-years-ago-i-made-the-decision-to-pursue-activity-7477812495945216000-3CsF | https://medium.com/@ikechukwuemmanuel2024/building-my-mindset-os-what-week-1-of-my-devops-micro-internship-taught-me-e34e5f2fc967?sharedUserId=ikechukwuemmanuel2024 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-agenticai-claudecode-share-7487790542274342912-wiR0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/week-2-learning-git-claude-code-and-the-basics-of-a-devops-workflow-3488461d3f96 |
 | 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |

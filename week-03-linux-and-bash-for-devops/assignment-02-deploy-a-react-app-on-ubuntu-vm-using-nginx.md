@@ -78,6 +78,8 @@ Install dependencies and generate the production build.
 
 ![Screenshot 5](screenshots/week-03-05.png)
 
+---
+
 # Task 6 — Deploy React Build to Nginx Web Root
 
 ## Goal
