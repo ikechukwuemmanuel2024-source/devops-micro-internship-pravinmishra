@@ -181,8 +181,6 @@ If Yes:
 
 **What emotion did you feel?** (minimum 50–100 words)
 
-yes
-
 There were times when I took shortcuts instead of putting in my best effort. At first, it feels like the easier option, but afterwards, I felt guilty and disappointed in myself. I also felt stressed mentally because I knew I had not been honest with my own self. That experience taught me that shortcuts may save time temporarily, but they often reduce confidence and growth. Since then, I have tried to be more disciplined and take responsibility for my work.
 
 ---
