@@ -280,9 +280,7 @@ Examples:
 
 **Yes / No**
 
-Answer: 
-
-Yes
+Answer: Yes
 
 ---
 
