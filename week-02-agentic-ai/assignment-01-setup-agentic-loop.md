@@ -55,13 +55,14 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
 ![Screenshot 4](screenshots/week-02-04.png)
+
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-Add your screenshot here.
-
 ![Screenshot 5](screenshots/week-02-05.png)
+
+---
 
 # Submission Instructions
 
