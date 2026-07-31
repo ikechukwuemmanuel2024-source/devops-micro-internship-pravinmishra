@@ -138,9 +138,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
-
 DNS (Domain Name System) translates human-readable domain names such as epicreads.com into IP addresses that computers use to locate websites. Instead of remembering an IP address, users can simply type the domain name into their browser. To connect epicreads.com to the IP address 52.172.142.222, an A record should be used because it maps a domain name directly to an IPv4 address.
+
+---
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
