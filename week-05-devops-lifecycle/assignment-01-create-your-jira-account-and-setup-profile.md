@@ -56,7 +56,7 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-![Screenshot 1](screenshots/week05-02.png)
+![Screenshot 2](screenshots/week05-02.png)
 
 ---
 
@@ -70,13 +70,13 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 4 — "View all projects" page showing at least one project
 
-![Screenshot 1](screenshots/week05-03.png)
+![Screenshot 3](screenshots/week05-03.png)
 
 ---
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-![Screenshot 1](screenshots/week05-04.png)
+![Screenshot 4](screenshots/week05-04.png)
 
 ---
 
