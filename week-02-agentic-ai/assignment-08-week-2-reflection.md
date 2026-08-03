@@ -115,11 +115,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 ### LinkedIn Post Link:
 
-<<<<<<< HEAD
 `https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-agenticai-claudecode-share-7487790542274342912-wiR0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w`
-=======
-`Add your URL here`
->>>>>>> upstream/main
 
 ---
 
