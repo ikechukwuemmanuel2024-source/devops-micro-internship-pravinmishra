@@ -108,8 +108,6 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
-
 `https://github.com/ikechukwuemmanuel2024-source/devops-micro-internship-pravinmishra.git`
 
 ---

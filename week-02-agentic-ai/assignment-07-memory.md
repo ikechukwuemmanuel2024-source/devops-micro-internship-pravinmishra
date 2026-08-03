@@ -91,15 +91,11 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 ## Linkedin Post Link
 
-Paste your Linkedin post link here:
-
 `https://www.linkedin.com/posts/ikechukwu-emmanuel_devops-agenticai-claudecode-ugcPost-7487584797104652288-N6JF`
 
 ---
 
 ## GitHub Repository URL
-
-Paste your forked repository URL here:
 
 `https://github.com/ikechukwuemmanuel2024-source/devops-micro-internship-pravinmishra`
 

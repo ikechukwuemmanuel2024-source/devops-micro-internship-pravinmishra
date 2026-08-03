@@ -90,6 +90,8 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 `https://github.com/ikechukwuemmanuel2024-source/devops-micro-internship-pravinmishra.git`
 
+---
+
 ## LinkedIn post URL
 
 `https://www.linkedin.com/posts/ikechukwu-emmanuel_devops-cloudengineering-aws-activity-7485377924431532034-uCbS`
