@@ -46,18 +46,14 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-![Screenshot 43](screenshots/week-02-43.png)
+![Screenshot 44](screenshots/week-02-43.png)
 
 ---
 ### Submission Field
 
 Blog Link:
 
-<<<<<<< HEAD
-`https://github.com/ikechukwuemmanuel2024-source/Ultimate-Agentic-DevOps-with-Claude-Code/blob/main/Reflection-week-02.md`
-=======
-`Add your URL here`
->>>>>>> upstream/main
+`https://medium.com/@ikechukwuemmanuel2024/reflection-md-week-2-by-ikechukwu-emmanuel-ee12b4caf9c7?sharedUserId=ikechukwuemmanuel2024`
 
 ---
 
