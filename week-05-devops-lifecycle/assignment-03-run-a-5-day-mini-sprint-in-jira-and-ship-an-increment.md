@@ -186,7 +186,7 @@ Paste your LinkedIn post URL here:
 
 #### LinkedIn Screenshot 1 — Published LinkedIn post showing the post content and at least one required link or proof image
 
-![Screenshot LinkedIn](screenshots/LinkedInpost.png)
+![Screenshot Linkedin](screenshots/LinkedInpost.png)
 
 ---
 
