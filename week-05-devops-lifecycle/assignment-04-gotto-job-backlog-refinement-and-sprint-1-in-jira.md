@@ -96,7 +96,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-![Screenshot 01](screenshots/week05-ass4-05.png)
+![Screenshot 05](screenshots/week05-ass4-05.png)
 
 ---
 
@@ -217,7 +217,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot 14 — Published LinkedIn post
 
-![Screenshot Linkedin](screenshots/week05-ass4-LinkedIn.png)
+![Screenshot Linkedin](screenshots/week05-ass4-LinkedInpost.png)
 
 ---
 

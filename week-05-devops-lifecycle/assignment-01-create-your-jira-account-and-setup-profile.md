@@ -34,7 +34,7 @@ Confirm your email address if Atlassian requests verification.
 
 #### Screenshot 2 (if applicable) — Confirmation screen after email verification, or the inbox showing the Atlassian verification email subject
 
-Add your screenshot here.
+There was no confirmation screen after email verfication.
 
 ---
 
@@ -42,13 +42,7 @@ Add your screenshot here.
 
 If you signed up with Google and no separate email verification was required, include the following statement instead of Screenshot 2:
 
-<<<<<<< HEAD
 I signed up using Google, and Atlassian did not require separate email verification
-=======
-> I signed up using Google, and Atlassian did not require separate email verification.
-
-Add any additional notes here.
->>>>>>> upstream/main
 
 ---
 
