@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+![Screenshot 00](screenshots/week03-ass3-00.png)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+![Screenshot 01](screenshots/week03-ass3-01.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+![Screenshot 02](screenshots/week03-ass3-02.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+![Screenshot 03](screenshots/week03-ass3-03.png)
 
 ---
 
@@ -48,19 +48,19 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+The output of sudo ss -tulpen shows Nginx listening on port 80. The 0.0.0.0:80 address means Nginx is listening for HTTP connections on port 80 from all IPv4 network interfaces.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The output of sudo ss -tulpen shows SSH (sshd) listening on port 22. This proves that the server is accepting SSH connections through port 22.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No, I did not find any unexpected open ports. The open ports I observed were related to the services running on the server, such as SSH on port 22 and HTTP through Nginx on port 80.
 
 ---
 
@@ -74,19 +74,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
+![Screenshot 04](screenshots/week03-ass3-04.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+![Screenshot 05](screenshots/week03-ass3-05.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+![Screenshot 06](screenshots/week03-ass3-06.png)
 
 ---
 
@@ -96,13 +96,13 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
+If Nginx fails to restart, the website may become unavailable, and any new configuration changes will not take effect. Users may be unable to access the application until the problem is fixed.
 
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+My basic rollback plan is to restore the last known working Nginx configuration, test it with sudo nginx -t, and then restart Nginx. I would also check the Nginx logs to confirm that the service is working correctly after the rollback.
 
 ---
 
@@ -116,19 +116,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+![Screenshot 07](screenshots/week03-ass3-07.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+![Screenshot 08](screenshots/week03-ass3-08.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+![Screenshot 09](screenshots/week03-ass3-09.png)
 
 ---
 
@@ -141,19 +141,19 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+No recent errors were found in the Nginx error log. The error.log command returned no output, while the journalctl output showed successful Nginx stops, starts, and reloads. There were no recent messages indicating a failed Nginx service.
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+It indicates that Nginx is currently operating normally and there are no recent configuration or service errors being reported. The successful reload and start messages also show that Nginx is able to start and reload its configuration correctly.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes. The curl requests appeared in the Nginx access log as HTTP requests to the server. This proves that traffic from the client reached the EC2 instance and was received and processed by Nginx.
 
 ---
 
@@ -167,25 +167,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+![Screenshot 10](screenshots/week03-ass3-10.png)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+![Screenshot 11](screenshots/week03-ass3-11.png)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+![Screenshot 12](screenshots/week03-ass3-12.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+![Screenshot 13](screenshots/week03-ass3-13.png)
 
 ---
 
@@ -195,13 +195,13 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+The resource that appears most critical is memory, because the server is running with limited RAM and the available memory should be monitored closely. High memory usage can cause applications and services to slow down or become unstable. CPU load and disk usage should also be monitored, but memory is the main resource of concern on this small server.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+If the disk becomes 100% full, the server may no longer be able to write files, logs, temporary data, or other required information. This can cause applications and services such as Nginx to malfunction, prevent deployments or updates, and potentially make the system unstable. Therefore, disk usage should be monitored and unnecessary files or logs should be cleaned up before the disk reaches full capacity.
 
 ---
 
@@ -215,19 +215,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+![Screenshot 14](screenshots/week03-ass3-14.png)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+![Screenshot 15](screenshots/week03-ass3-15.png)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+![Screenshot 16](screenshots/week03-ass3-16.png)
 
 ---
 
@@ -237,7 +237,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
+I can confirm that the correct version of the application is deployed by checking the files in /var/www/html, verifying the deployment information in the application files, and checking that the Nginx configuration points to the correct web root. I can also open the application in a browser and confirm that the expected application content, including my name and date, is displayed.
 
 ---
 
@@ -251,19 +251,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+![Screenshot 17](screenshots/week03-ass3-17.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
+![Screenshot 22](screenshots/week03-ass3-22.png)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![Screenshot 18](screenshots/week03-ass3-18.png)
 
 ---
 
@@ -273,19 +273,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+The configuration failure was caused by adding an invalid directive to the Nginx configuration file. When I ran sudo nginx -t, Nginx detected the invalid directive and reported a syntax error.
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+I removed the invalid directive from the Nginx configuration file and ran sudo nginx -t again. The test then showed that the syntax was okay and the configuration test was successful. I then verified that the application was responding normally with curl.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+I can avoid this type of issue by testing Nginx configurations with sudo nginx -t before applying changes, keeping backups of known-working configurations, making changes carefully, and using version control or a proper deployment process. This allows configuration problems to be detected before they affect users.
 
 ---
 
@@ -299,13 +299,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+![Screenshot 19](screenshots/week03-ass3-19.png)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![Screenshot 20](screenshots/week03-ass3-20.png)
 
 ---
 
@@ -315,19 +315,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application broke because the index.html file was temporarily moved out of the Nginx web root directory /var/www/html. Since Nginx could no longer find the main application file, the server returned a non-200 HTTP response.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I restored the index.html file to /var/www/html and then tested the application using curl -I http://44.200.41.37. The server returned 200 OK, confirming that the application was accessible again.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+I would use proper deployment procedures, keep backups of important application files, use version control, monitor the application for failures, and avoid manually deleting or moving production files. I would also use automated deployment and rollback processes so that a previous working version can be restored quickly if a deployment fails.
 
 ---
 
@@ -343,31 +343,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH key-based authentication is more secure because it uses a private key and a public key instead of relying on a password that can be guessed, stolen, or reused. The private key remains on the user's device and should never be shared publicly.
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Only required ports should be open to reduce the server's attack surface. Every unnecessary open port can provide another possible entry point for attackers. For example, a web server normally needs port 80 for HTTP and port 22 for SSH administration.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+Enabling Nginx on boot ensures that the web server automatically starts when the server restarts. Without it, the server could come back online but the website would remain unavailable until Nginx is manually started.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Sharing secrets, private keys, passwords, or credentials publicly can allow unauthorized people to access cloud resources, servers, applications, or personal information. This can lead to data loss, security breaches, unauthorized changes, and unexpected cloud charges. Private keys and credentials should always be kept secret.
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Unused cloud resources should be stopped or terminated to avoid unnecessary costs and reduce security risks. Resources that are left running can continue generating charges and may also remain exposed to potential attacks. Cleaning up unused resources helps control both cost and security.
 
 ---
 
@@ -379,13 +379,13 @@ Write your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/ikechukwu-emmanuel_devops-aws-cloudcomputing-activity-7495200003179749376-hvLa?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot 20](screenshots/LinkedIn-week03-ass3.png)  
 
 ---
 
