@@ -102,13 +102,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-![alt text](image-8.png)
+![Screenshot 08](screenshots/week03-ass4-08.png)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-![alt text](image-9.png)
+![Screenshot 09](screenshots/week03-ass4-09.png)
 
 ---
 
@@ -126,7 +126,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-![alt text](image-10.png)
+![Screenshot 09](screenshots/LinkedIn-post-week3-ass4.png)
 
 ---
 
