@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-![alt text](image.png)
+![Screenshot ](screenshots/week03-ass4-01.png)
 
 ---
 
@@ -34,7 +34,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-![alt text](image-2.png)
+![Screenshot 02](screenshots/week03-ass4-02.png)
 
 ---
 
@@ -48,7 +48,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-![alt text](image-4.png)
+![Screenshot 04](screenshots/week03-ass4-04.png)
 
 ---
 
@@ -62,13 +62,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-![alt text](image-3.png)
+![Screenshot 03](screenshots/week03-ass4-03.png)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-![alt text](image-5.png)
+![Screenshot 05](screenshots/week03-ass4-05.png)
 
 ---
 
@@ -82,13 +82,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-![alt text](image-6.png)
+![Screenshot 06](screenshots/week03-ass4-06.png)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-![alt text](image-7.png)
+![Screenshot 07](screenshots/week03-ass4-07.png)
 
 ---
 
