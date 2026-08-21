@@ -494,7 +494,7 @@ Bash gathered the system evidence, Claude analyzed the evidence and recommended 
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-linux-bash-ugcPost-7496195656022245378-7H0M/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w`
 
 ---
 
