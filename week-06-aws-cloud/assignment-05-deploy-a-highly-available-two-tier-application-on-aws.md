@@ -107,12 +107,13 @@ Create a Launch Template whose user data installs the web-server runtime, deploy
 
 #### Screenshot 11 — Launch Template details showing that user data exists, including a visible snippet
 
+![Screenshot 17](screenshots/week06-ass5-000.png)
 
 ---
 
 #### Screenshot 12 — A running instance created from the template showing the application responds on port 80
 
-Add your screenshot here.
+![Screenshot 18](screenshots/week06-ass5-001.png)
 
 ---
 
@@ -126,13 +127,13 @@ Create an internet-facing ALB across both public subnets with an HTTP listener a
 
 #### Screenshot 13 — ALB details showing two public subnets in two Availability Zones
 
-Add your screenshot here.
+![Screenshot 19](screenshots/week06-ass5-002.png)
 
 ---
 
 #### Screenshot 14 — Target group showing at least one healthy target
 
-Add your screenshot here.
+![Screenshot 20](screenshots/week06-ass5-003.png)
 
 ---
 
@@ -146,13 +147,13 @@ Create an Auto Scaling Group from the Launch Template across both public subnets
 
 #### Screenshot 15 — Auto Scaling Group showing desired, minimum, and maximum capacity and the selected subnet Availability Zones
 
-Add your screenshot here.
+![Screenshot 21](screenshots/week06-ass5-004.png)
 
 ---
 
 #### Screenshot 16 — EC2 instances list showing two running instances in different Availability Zones
 
-Add your screenshot here.
+![Screenshot 22](screenshots/week06-ass5-005.png)
 
 ---
 
@@ -166,13 +167,13 @@ Confirm the application communicates with the RDS database through the ALB DNS n
 
 #### Screenshot 17 — Browser showing the application loaded through the ALB DNS name with the URL visible
 
-Add your screenshot here.
+![Screenshot 23](screenshots/week06-ass5-006.png)
 
 ---
 
 #### Screenshot 18 — Proof of a database write through a UI message or database query output
 
-Add your screenshot here.
+![Screenshot 24](screenshots/week06-ass5-007.png)
 
 ---
 
@@ -186,25 +187,25 @@ Test A: terminate one web instance and confirm the Auto Scaling Group replaces i
 
 #### Screenshot 19 — EC2 showing the terminated instance and the newly launched instance
 
-Add your screenshot here.
+![Screenshot 25](screenshots/week06-ass5-008.png)
 
 ---
 
 #### Screenshot 20 — Target group showing healthy targets after replacement
 
-Add your screenshot here.
+![Screenshot 26](screenshots/week06-ass5-009.png)
 
 ---
 
 #### Screenshot 21 — Evidence that an instance was removed, detached, placed in Standby, or stopped in one Availability Zone
 
-Add your screenshot here.
+![Screenshot 27](screenshots/week06-ass5-010.png)
 
 ---
 
 #### Screenshot 22 — Browser showing that the ALB DNS endpoint still works during the change
 
-Add your screenshot here.
+![Screenshot 28](screenshots/week06-ass5-011.png)
 
 ---
 
@@ -218,7 +219,7 @@ Summarize the VPC/subnet layout, the ALB and Auto Scaling Group setup, the priva
 
 #### Screenshot 23 — A simple architecture diagram (hand-drawn is fine), or an AWS console overview showing the components
 
-Add your screenshot here.
+![Screenshot 29](screenshots/week06-ass5-012.png)
 
 ---
 
@@ -226,7 +227,29 @@ Add your screenshot here.
 
 Write a short summary covering the network, ALB/ASG setup, RDS setup, and the results of Test A and Test B.
 
-Write your answer here.
+## Architecture Summary
+
+The application was deployed in the `10.0.0.0/16` VPC across two Availability Zones in the `eu-west-3` Region. The web tier uses two public subnets, `10.0.1.0/24` in `eu-west-3a` and `10.0.2.0/24` in `eu-west-3b`, while the database tier uses two private subnets, `10.0.11.0/24` and `10.0.12.0/24`.
+
+An Internet Gateway provides internet connectivity to the public subnets, while a NAT Gateway provides outbound connectivity for the private network. The Application Load Balancer is internet-facing and spans both public subnets, forwarding HTTP traffic on port 80 to the `ha-web-tg` target group.
+
+The web tier is managed by an Auto Scaling Group with a desired capacity of 2, minimum capacity of 2, and maximum capacity of 4. The EC2 instances are distributed across the two Availability Zones to provide redundancy. The database tier uses a private Multi-AZ RDS deployment and is not publicly accessible.
+
+Security Groups enforce the intended traffic flow: Internet → ALB → EC2 → RDS. The application was verified through the ALB DNS endpoint and successfully performed database read and write operations.
+
+## High-Availability Test Results
+
+### Test A — Instance Failure
+
+One web-tier EC2 instance was intentionally terminated. The Auto Scaling Group detected the reduced capacity and automatically launched a replacement instance. The Application Load Balancer continued serving the application through the remaining healthy instance, and the replacement instance was subsequently registered with the target group and became healthy.
+
+### Test B — Availability Zone Impact
+
+One web-tier instance in an Availability Zone was temporarily removed/stopped/placed into the selected failure state. The remaining instance in the other Availability Zone continued serving traffic through the Application Load Balancer. The ALB DNS endpoint remained accessible during the test, demonstrating that the application could continue operating despite the simulated Availability Zone impact.
+
+## Conclusion
+
+The deployment demonstrated a highly available two-tier AWS architecture using Multi-AZ networking, an internet-facing Application Load Balancer, an Auto Scaling web tier, and a private Multi-AZ RDS database. Both required failure tests demonstrated that the web application could remain available and recover automatically from web-tier failures.
 
 ---
 
@@ -242,13 +265,13 @@ Publish a LinkedIn post about the high-availability build, including the ALB URL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/ikechukwu-emmanuel_architecture-summary-the-application-was-activity-7498084070409654272-DItt?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot LinkedIn](screenshots/week06-ass5-013.png)
 
 ---
 
