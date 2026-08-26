@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![Screenshot 0](screenshots/week06-ass6-00.png)     
 
 ---
 
@@ -34,13 +34,21 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+eu-west-3 (Europe — Paris)
 
 ---
 
 **Services used:**
 
-Write your answer here.
+Amazon VPC — custom VPC 10.0.0.0/16
+Amazon EC2 — Web Tier and private App Tier servers
+Elastic Load Balancing (Application Load Balancer) — public ALB and internal ALB
+Amazon RDS for MySQL — private database tier, Multi-AZ and read replica
+Amazon VPC Subnets — public Web Tier, private App Tier, and private Database Tier
+Amazon VPC Route Tables — routing traffic between the tiers and gateways
+Internet Gateway (IGW) — internet access for the public subnets
+NAT Gateway — outbound internet access for private subnets
+Security Groups — controls traffic between Web, App, and Database tiers
 
 ---
 
@@ -56,7 +64,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 Paste your public ALB DNS name here:
 
-`Add your URL here`
+`ha-web-alb-763269653.eu-west-3.elb.amazonaws.com`
 
 ---
 
@@ -70,37 +78,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Screenshot 1 — Web Tier EC2 instance in a public subnet
 
-Add your screenshot here.
+![Screenshot 1](screenshots/week06-ass6-01.png)
 
 ---
 
 #### Screenshot 2 — App Tier EC2 instance in a private subnet
 
-Add your screenshot here.
+![Screenshot 2](screenshots/week06-ass6-02.png)
 
 ---
 
 #### Screenshot 3 — Public Application Load Balancer configuration or healthy targets
 
-Add your screenshot here.
+![Screenshot 3](screenshots/week06-ass6-03.png)
 
 ---
 
 #### Screenshot 4 — Internal Application Load Balancer configuration or healthy targets
 
-Add your screenshot here.
+![Screenshot 4](screenshots/week06-ass6-04.png)
 
 ---
 
 #### Screenshot 5 — Amazon RDS for MySQL showing Multi-AZ and the read replica
 
-Add your screenshot here.
+![Screenshot 5](screenshots/week06-ass6-005.png)
 
 ---
 
 #### Screenshot 6 — Book Review App UI working through the public ALB
 
-Add your screenshot here.
+![Screenshot 6](screenshots/week06-ass6-06.png)
 
 ---
 
@@ -114,19 +122,35 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+# Task 5 — Summary
+
+## What worked
+
+The Book Review App was deployed using a three-tier AWS architecture. The Web Tier runs on an EC2 instance in a public subnet behind an internet-facing Application Load Balancer and Nginx. The App Tier runs privately behind an internal Application Load Balancer, while the MySQL database is isolated in the private Database Tier. Health checks and ALB routing were configured to verify connectivity between the different layers.
 
 ---
 
 **Issues encountered and fixes:**
 
-Write your answer here.
+During the deployment, some issues occurred with EC2 connectivity, load balancer target health, and service configuration. These were resolved by checking Security Group rules, subnet placement, listener and target-group configurations, application ports, and service status on the EC2 instances. Unhealthy targets were investigated using ALB health-check information and the relevant application/Nginx configuration was corrected. The final architecture keeps the App and Database tiers private and uses the load balancers as the controlled traffic entry points.
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+- AWS Management Console
+- Amazon EC2
+- Amazon VPC
+- Application Load Balancer and Target Groups
+- Amazon RDS for MySQL
+- Ubuntu/Linux terminal
+- Nginx
+- Node.js/Express
+- Next.js
+- Git/GitHub
+- ChatGPT
+- AWS documentation
+- Google and developer forums for troubleshooting
 
 ---
 
@@ -142,13 +166,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/ikechukwu-emmanuel_aws-devops-cloudengineering-activity-7498425191929151488-p3Wd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w`           
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot 0](screenshots/week06-ass6-LinkedIn.png)
 
 ---
 
