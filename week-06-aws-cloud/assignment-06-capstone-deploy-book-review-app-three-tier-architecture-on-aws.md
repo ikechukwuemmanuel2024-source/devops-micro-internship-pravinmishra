@@ -1,4 +1,4 @@
-# Assignment 6 — Capstone: Deploy Book Review App (Three-Tier Architecture) on AWS
+# Assignment 6 — Capstone Assignment — Deploy Book Review App (Three-Tier Architecture) on AWS
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
@@ -38,7 +38,7 @@ eu-west-3 (Europe — Paris)
 
 ---
 
-**Services used:**
+**Services:**
 
 Amazon VPC — custom VPC 10.0.0.0/16
 Amazon EC2 — Web Tier and private App Tier servers
@@ -76,37 +76,37 @@ Capture visual proof of every tier and load balancer.
 
 ### Evidence
 
-#### Screenshot 1 — Web Tier EC2 instance in a public subnet
+#### Web EC2
 
 ![Screenshot 1](screenshots/week06-ass6-01.png)
 
 ---
 
-#### Screenshot 2 — App Tier EC2 instance in a private subnet
+#### App EC2
 
 ![Screenshot 2](screenshots/week06-ass6-02.png)
 
 ---
 
-#### Screenshot 3 — Public Application Load Balancer configuration or healthy targets
+#### Public ALB
 
 ![Screenshot 3](screenshots/week06-ass6-03.png)
 
 ---
 
-#### Screenshot 4 — Internal Application Load Balancer configuration or healthy targets
+#### Internal ALB
 
 ![Screenshot 4](screenshots/week06-ass6-04.png)
 
 ---
 
-#### Screenshot 5 — Amazon RDS for MySQL showing Multi-AZ and the read replica
+#### RDS + Replica
 
 ![Screenshot 5](screenshots/week06-ass6-005.png)
 
 ---
 
-#### Screenshot 6 — Book Review App UI working through the public ALB
+#### App UI proof
 
 ![Screenshot 6](screenshots/week06-ass6-06.png)
 
@@ -130,7 +130,7 @@ The Book Review App was deployed using a three-tier AWS architecture. The Web Ti
 
 ---
 
-**Issues encountered and fixes:**
+**Issues + fixes:**
 
 During the deployment, some issues occurred with EC2 connectivity, load balancer target health, and service configuration. These were resolved by checking Security Group rules, subnet placement, listener and target-group configurations, application ports, and service status on the EC2 instances. Unhealthy targets were investigated using ALB health-check information and the relevant application/Nginx configuration was corrected. The final architecture keeps the App and Database tiers private and uses the load balancers as the controlled traffic entry points.
 
@@ -170,7 +170,7 @@ Paste your LinkedIn post URL here:
 
 ---
 
-#### Screenshot — Published LinkedIn post
+#### Screenshot of LinkedIn post
 
 ![Screenshot 0](screenshots/week06-ass6-LinkedIn.png)
 
