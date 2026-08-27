@@ -20,7 +20,7 @@ Confirm your AWS CLI is authenticated and can see the S3 bucket, EC2 instance(s)
 
 #### Screenshot 1 — Terminal showing your AWS identity and your S3, EC2, and RDS resources listed
 
-Add your screenshot here.
+![alt text](image.png)
 
 ---
 
@@ -34,7 +34,7 @@ Create a `CLAUDE.md` in your workspace that tells Claude the audit script is rea
 
 #### Screenshot 2 — `CLAUDE.md` open showing the project overview and safety rules
 
-Add your screenshot here.
+![alt text](image-1.png)
 
 ---
 
