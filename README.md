@@ -136,7 +136,7 @@ Week 02 → Agentic AI with Claude Code
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-linux-bash-activity-7496195657104453635-CmNl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/week-3-of-my-devops-micro-internship-from-linux-fundamentals-to-ai-assisted-operations-ac0f6b6a4ad4?sharedUserId=ikechukwuemmanuel2024 |
 | 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_jira-scrum-devops-share-7491205267489972224-g1VG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/building-an-ai-sprint-health-assistant-with-jira-mcp-and-claude-code-a1ddf99d6a29 |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-aws-agenticai-activity-7499843440189480960-lNo6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/week-6-building-an-aws-security-audit-workflow-with-claude-code-agentic-ai-9e263d33c159 |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
