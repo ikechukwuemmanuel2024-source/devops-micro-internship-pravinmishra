@@ -30,7 +30,7 @@ Confirm successful Azure Portal access and Locate the required services and subs
 
 #### Screenshot 1 — Azure Portal homepage after successful login
 
-Add your screenshot here.
+![alt text](image.png)
 
 ---
 
