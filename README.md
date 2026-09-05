@@ -76,17 +76,17 @@ Week 01 → Success Mindset
 Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+Week 03 → Linux & Bash for DevOps
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
 
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+Week 04 → Git & GitHub
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+Week 05 → DevOps Lifecycle & Agile
+[![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)
 
-<!-- Week 06 → AWS Cloud -->
-<!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
+Week 06 → AWS Cloud
+[![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/)
 
 <!-- Week 07 → Azure Cloud -->
 <!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
@@ -134,7 +134,7 @@ Week 02 → Agentic AI with Claude Code
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_a-few-years-ago-i-made-the-decision-to-pursue-activity-7477812495945216000-3CsF | https://medium.com/@ikechukwuemmanuel2024/building-my-mindset-os-what-week-1-of-my-devops-micro-internship-taught-me-e34e5f2fc967?sharedUserId=ikechukwuemmanuel2024 |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-agenticai-claudecode-share-7487790542274342912-wiR0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/week-2-learning-git-claude-code-and-the-basics-of-a-devops-workflow-3488461d3f96 |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-linux-bash-activity-7496195657104453635-CmNl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/week-3-of-my-devops-micro-internship-from-linux-fundamentals-to-ai-assisted-operations-ac0f6b6a4ad4?sharedUserId=ikechukwuemmanuel2024 |
-| 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | — |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://github.com/pravinmishraaws/devops-micro-internship-interviews.git | https://medium.com/@ikechukwuemmanuel2024/week-4-building-a-safer-devops-workflow-with-git-and-agentic-ai-2e5f1bc99edd |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_jira-scrum-devops-share-7491205267489972224-g1VG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/building-an-ai-sprint-health-assistant-with-jira-mcp-and-claude-code-a1ddf99d6a29 |
 | 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-aws-agenticai-activity-7499843440189480960-lNo6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/week-6-building-an-aws-security-audit-workflow-with-claude-code-agentic-ai-9e263d33c159 |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
