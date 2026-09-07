@@ -30,13 +30,13 @@ Confirm successful Azure Portal access and Locate the required services and subs
 
 #### Screenshot 1 — Azure Portal homepage after successful login
 
-![alt text](image.png)
+![Screenshot 0](screenshots/week7-ass1-01.png)
 
 ---
 
 #### Screenshot 2 — "Subscriptions" section showing the "Free Trial" subscription
 
-Add your screenshot here.
+![Screenshot 0](screenshots/week7-ass1-02.png)
 
 ---
 
@@ -44,7 +44,7 @@ Add your screenshot here.
 
 Write a three-to-four-line paragraph explaining which Azure services you plan to explore first and why.
 
-Write your answer here.
+I plan to explore Azure Virtual Machines first because they will help me understand how compute resources are provisioned and managed in the cloud. I also want to explore Azure Virtual Networks to understand how cloud networking works. After that, I plan to work with services such as Azure Storage and Azure Monitor to build a better understanding of cloud infrastructure and operations.
 
 ---
 
