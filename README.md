@@ -88,8 +88,8 @@ Week 05 → DevOps Lifecycle & Agile
 Week 06 → AWS Cloud
 [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/)
 
-<!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+Week 07 → Azure Cloud 
+[![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) 
 
 <!-- Week 08 → Terraform -->
 <!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
@@ -137,7 +137,7 @@ Week 06 → AWS Cloud
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://github.com/pravinmishraaws/devops-micro-internship-interviews.git | https://medium.com/@ikechukwuemmanuel2024/week-4-building-a-safer-devops-workflow-with-git-and-agentic-ai-2e5f1bc99edd |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_jira-scrum-devops-share-7491205267489972224-g1VG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/building-an-ai-sprint-health-assistant-with-jira-mcp-and-claude-code-a1ddf99d6a29 |
 | 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_dmibypravinmishra-aws-agenticai-activity-7499843440189480960-lNo6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7w | https://medium.com/@ikechukwuemmanuel2024/week-6-building-an-aws-security-audit-workflow-with-claude-code-agentic-ai-9e263d33c159 |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 07 | Azure Cloud | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ikechukwu-emmanuel_devops-azure-cloudengineering-activity-7505588440348921857-ac6v?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGENBPUBsLYqmgeLRkF6HTid7rCysjW2i7wa | https://medium.com/@ikechukwuemmanuel2024/week-7-my-hands-on-journey-into-microsoft-azure-186be86f4e6f |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
