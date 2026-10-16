@@ -6,8 +6,8 @@ Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ## Student Details
 
-**Full Name:** Add your full name here  
-**Cloud Platform Used:** AWS / Azure  
+**Full Name:** Ikechukwu Emmanuel 
+**Cloud Platform Used:** Azure  
 **Server 1 URL:** `http://<SERVER_1_PUBLIC_IP>`  
 **Server 2 URL:** `http://<SERVER_2_PUBLIC_IP>`
 
@@ -31,7 +31,7 @@ Create the required folders and files for the Ansible project.
 
 ### Screenshot 1 — Terminal or VS Code showing the complete `static-web` project structure
 
-Add your screenshot here.
+![alt text](image.png)
 
 ---
 
@@ -45,7 +45,7 @@ Add both Ubuntu servers to the Ansible inventory.
 
 ### Screenshot 2 — Output of `ansible-inventory -i inventory.ini --graph` showing `web1` and `web2`
 
-Add your screenshot here.
+![alt text](image-1.png)
 
 ---
 
@@ -54,7 +54,13 @@ Add your screenshot here.
 Copy and paste the complete contents of your `inventory.ini` file below:
 
 ```ini
-Add your inventory.ini content here.
+[web]
+web1 ansible_host=<SERVER_1_PUBLIC_IP>
+web2 ansible_host=<SERVER_2_PUBLIC_IP>
+
+[web:vars]
+ansible_user=<SSH_USERNAME>
+ansible_ssh_private_key_file=<ABSOLUTE_PATH_TO_PRIVATE_KEY>
 ```
 
 ---
