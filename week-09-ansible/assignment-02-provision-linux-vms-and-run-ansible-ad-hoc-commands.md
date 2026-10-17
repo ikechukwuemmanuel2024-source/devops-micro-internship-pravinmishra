@@ -234,13 +234,13 @@ Throughout this lab, I used Terraform to provision three Ubuntu VMs (web1, app1,
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://lnkd.in/p/ds6zeYjY`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot 0](screenshots/week9-ass3-12.png)
 
 ---
 
